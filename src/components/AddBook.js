@@ -52,7 +52,7 @@ const AddBook = (props) => {
         </select>
       </div>
 
-      <button><strong>ADD+</strong></button>
+      <button>ADD</button>
 
     </form>
   );
